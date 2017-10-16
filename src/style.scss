@@ -1,0 +1,14 @@
+$green : green;
+$white : #fff;
+div {
+  background:url('beach-slide.jpg');
+  height:400px;
+  color:$white;	
+  background-repeat:no-repeat;
+  background-position:center;	
+  background-size:cover;	
+  width:100%;
+  float:left;
+  text-align:center;	
+}
+body{margin:0;}
